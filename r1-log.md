@@ -12,3 +12,5 @@ https://www.codecademy.com . Did baisic html learning. Spend 50min.<br>
 Total: <strong>2h work.</strong>
 
 ### R1D2
+https://codepen.io/shefass/pen/PdYKXY added grid to features and some logos to other section.
+Total: <strong>1h work.</strong>
