@@ -9,6 +9,6 @@ https://codepen.io/shefass/pen/VBJYPO changed font and added new picture. Spend 
 https://codepen.io/shefass/pen/rrEJKX added some CSS. Spend 20min.<br>
 https://codepen.io/shefass/pen/PdYKXY added video, styled nav bar. Spend 35min.<br>
 https://www.codecademy.com . Did baisic html learning. Spend 50min.<br> 
-Toatal: <strong>2h work.</strong>
+Total: <strong>2h work.</strong>
 
 ### R1D2
