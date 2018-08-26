@@ -14,3 +14,7 @@ Total: <strong>2h work.</strong>
 ### R1D2
 https://codepen.io/shefass/pen/PdYKXY added grid to features and some logos to other section.
 Total: <strong>1h work.</strong>
+
+### R1D3
+https://codepen.io/shefass/pen/PdYKXY added footer, and mobile suport..
+Total: <strong>3h work.</strong>
