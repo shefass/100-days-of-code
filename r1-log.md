@@ -18,3 +18,7 @@ Total: <strong>1h work.</strong>
 ### R1D3
 https://codepen.io/shefass/pen/PdYKXY added footer, and mobile suport..
 Total: <strong>3h work.</strong>
+
+### R1D4
+https://codepen.io/shefass/pen/rrEJKX played if grid.
+Total: <strong>1h work.</strong>
