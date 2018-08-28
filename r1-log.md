@@ -22,3 +22,8 @@ Total: <strong>3h work.</strong>
 ### R1D4
 https://codepen.io/shefass/pen/rrEJKX played with grid.
 Total: <strong>1h work.</strong>
+
+### R1D5
+https://codepen.io/shefass/pen/rrEJKX finished survey form.
+https://codepen.io/shefass/pen/dqXQOV started Technical Documentation Page.
+Total: <strong>2h work.</strong>
