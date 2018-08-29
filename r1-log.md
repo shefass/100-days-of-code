@@ -27,3 +27,7 @@ Total: <strong>1h work.</strong>
 https://codepen.io/shefass/pen/rrEJKX finished survey form.
 https://codepen.io/shefass/pen/dqXQOV started Technical Documentation Page.
 Total: <strong>2h work.</strong>
+
+### R1D6
+https://codepen.io/shefass/pen/dqXQOV finished Technical Documentation Page.
+Total: <strong>2h30min work.</strong>
