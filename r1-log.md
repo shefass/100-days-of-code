@@ -31,3 +31,7 @@ Total: <strong>2h work.</strong>
 ### R1D6
 https://codepen.io/shefass/pen/dqXQOV finished Technical Documentation Page.<br>
 Total: <strong>2h30min work.</strong>
+
+### R1D7
+https://codepen.io/shefass/full/EeNmMB/ worked on personal portfolio page.<br>
+Total: <strong>3h20min</strong>
