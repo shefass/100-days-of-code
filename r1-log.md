@@ -35,3 +35,8 @@ Total: <strong>2h30min work.</strong>
 ### R1D7
 https://codepen.io/shefass/full/EeNmMB/ worked on personal portfolio page.<br>
 Total: <strong>3h20min</strong>
+
+### R1D8
+https://codepen.io/shefass/full/EeNmMB/  finished pp page.<br>
+Total: <strong>1h30min</strong>
+
