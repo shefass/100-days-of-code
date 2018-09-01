@@ -40,3 +40,8 @@ Total: <strong>3h20min</strong>
 https://codepen.io/shefass/full/EeNmMB/  finished pp page.<br>
 Total: <strong>1h30min</strong>
 
+### R1D8
+Spend some time learning FCC JavaScript, no mativation at all:).<br>
+Total: <strong>40min</strong>
+
+
