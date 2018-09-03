@@ -40,8 +40,10 @@ Total: <strong>3h20min</strong>
 https://codepen.io/shefass/full/EeNmMB/  finished pp page.<br>
 Total: <strong>1h30min</strong>
 
-### R1D8
+### R1D9
 Spend some time learning FCC JavaScript, no mativation at all:).<br>
 Total: <strong>40min</strong>
 
-
+### R1D10-11
+Spend 4h learning JS, struggling with complex objects. I need a lot of time to do simple exercise and brain power :)<br>
+Total: <strong>4h</strong>
