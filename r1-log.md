@@ -47,3 +47,7 @@ Total: <strong>40min</strong>
 ### R1D10-11
 Spend 4h learning JS, struggling with complex objects. I need a lot of time to do simple exercise and brain power :)<br>
 Total: <strong>4h</strong>
+
+### R1D12
+Spend 2h with JS stuff. Was stuck on simple exersice, spend total 5h on it.<br>
+Total: <strong>2h</strong>
