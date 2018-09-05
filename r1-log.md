@@ -51,3 +51,7 @@ Total: <strong>4h</strong>
 ### R1D12
 Spend 2h with JS stuff. Was stuck on simple exersice, spend total 5h on it.<br>
 Total: <strong>2h</strong>
+
+### R1D13
+Finished FCC Introduction to JavaScript. Now working on html+css projects, finish them and will apply for Responsive Web Design Certificate.<br>
+Total: <strong>2h</strong>
