@@ -55,3 +55,9 @@ Total: <strong>2h</strong>
 ### R1D13
 Finished FCC Introduction to JavaScript. Now working on html+css projects, finish them and will apply for Responsive Web Design Certificate.<br>
 Total: <strong>2h</strong>
+
+### R1D14
+Near end ES6, so much new information, need a lot work to understand all.<br>
+Total: <strong>4h</strong>
+
+
