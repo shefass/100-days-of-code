@@ -60,4 +60,10 @@ Total: <strong>2h</strong>
 Near end ES6, so much new information, need a lot work to understand all.<br>
 Total: <strong>4h</strong>
 
+### R1D15
+Finished ES6, need a lot pratice..<br>
+Total: <strong>1h</strong>
 
+### R1D16
+Finished JS regular expresions, easy topic after es6 :) <br>
+Total: <strong>1h</strong>
