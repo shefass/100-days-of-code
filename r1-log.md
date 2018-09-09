@@ -67,3 +67,7 @@ Total: <strong>1h</strong>
 ### R1D16
 Finished JS regular expresions, easy topic after es6 :) <br>
 Total: <strong>1h</strong>
+
+### R1D16
+Was working with baisic JS exercises, big time eaters<br>
+Total: <strong>6h</strong>
