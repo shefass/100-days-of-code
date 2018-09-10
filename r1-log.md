@@ -71,3 +71,7 @@ Total: <strong>1h</strong>
 ### R1D17
 Was working with baisic JS exercises, big time eaters<br>
 Total: <strong>6h</strong>
+
+### R1D18
+JS exercise
+Total: <strong>1h</strong>
