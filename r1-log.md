@@ -73,5 +73,11 @@ Was working with baisic JS exercises, big time eaters<br>
 Total: <strong>6h</strong>
 
 ### R1D18
-JS exercise
+JS exercise<br>
 Total: <strong>1h</strong>
+
+### R1D19
+Finished baisic fcc js problems.<br>
+Finished Object Oriented Programming FCC chapter. Not easy..<br>
+Started Functional Programming.<br>
+Total: <strong>6h</strong>
