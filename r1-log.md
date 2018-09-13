@@ -85,3 +85,7 @@ Total: <strong>6h</strong>
 ### R1D20
 Struggling with Functional Programming, so much time need to apply simple methods and construct logic. Big respect for developers, so much work and experience need to make code work.<br>
 Total: <strong>4h</strong>
+
+### R1D21
+Mastered map, filter and reduce. lol - mastered:) <br>
+Total: <strong>2h</strong>
