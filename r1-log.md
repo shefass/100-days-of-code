@@ -91,6 +91,10 @@ Mastered map, filter and reduce. lol - mastered:) <br>
 Total: <strong>2h</strong>
 
 ### R1D22-26
-Time igoing fast:) I thought i missed 2 days of reporting in github, no I see it's 5 days.<br>
+Time going fast:) I thought i missed 2 days of reporting in github, no I see it's 5 days.<br>
 Finished FCC functional programing and started Intermediate Algorithm Scripting. Big time eaters.<br>
 Total: <strong>7h</strong>
+
+### R1D27
+Did some JS exersices, didn't stuck like last time. Created content for new project burst.lt<br>
+Total: <strong> 3h30min </strong>
