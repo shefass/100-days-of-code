@@ -98,3 +98,11 @@ Total: <strong>7h</strong>
 ### R1D27
 Did some JS exersices, didn't stuck like last time. Created content for new project burst.lt<br>
 Total: <strong> 3h30min </strong>
+
+### R1D28
+Some JS exersices.<br>
+Total: <strong> 1h </strong>
+
+### R1D29
+Worked on burst.lt, https://codepen.io/shefass/full/bxZorB/
+Total: <strong> 5h </strong>
