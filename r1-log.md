@@ -104,5 +104,5 @@ Some JS exersices.<br>
 Total: <strong> 1h </strong>
 
 ### R1D29
-Worked on burst.lt, https://codepen.io/shefass/full/bxZorB/
+Worked on burst.lt, https://codepen.io/shefass/full/bxZorB/ <br>
 Total: <strong> 5h </strong>
