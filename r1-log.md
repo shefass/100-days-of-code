@@ -106,3 +106,9 @@ Total: <strong> 1h </strong>
 ### R1D29
 Worked on burst.lt, https://codepen.io/shefass/full/bxZorB/ <br>
 Total: <strong> 5h </strong>
+
+### R1D30 - 31
+Saturday, spend very little time on burst.lt <br>
+Sunday, added supprt for mobile phones, registred hosting. Only left to chechk speling.<br>
+Total: <strong> 3h </strong>
+
