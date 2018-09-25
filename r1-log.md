@@ -112,3 +112,7 @@ Saturday, spend very little time on burst.lt <br>
 Sunday, added supprt for mobile phones, registred hosting. Only left to chechk speling.<br>
 Total: <strong> 3h </strong>
 
+### R1D32 - 33
+Did JS exersices and learned bootstrap.<br>
+Total: <strong> 3h </strong>
+
